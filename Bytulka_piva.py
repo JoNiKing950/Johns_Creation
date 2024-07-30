@@ -15,7 +15,7 @@ def bottles_of_beer(beer):
 
 
 try:    
-    h = int(input("Введи сколько бутылок пивандопола сучара!"))
+    h = int(input("Введи сколько бутылок пивандопола , Bitch!"))
     bottles_of_beer(h)
 except ValueError:
     print("Упс! Не удалось посчитать сколько бутылок пива на стене , сколько бутылок пива")
